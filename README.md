@@ -5,4 +5,4 @@
 ## Yovanka Sandrina Maharaja (18222094)
 
 ### Download the App
-<a href= "https://expo.dev/artifacts/eas/xn8TWpGk3Hyq4P98HmPxoa.apk" /a>
+https://expo.dev/artifacts/eas/xn8TWpGk3Hyq4P98HmPxoa.apk
